@@ -7,6 +7,8 @@
 
 - 📫 How to reach me pepa#7928 or pepapig.miki@gmail.com
 
+- 📕 My portfolio https://pdfhost.io/v/0ldLgijUO_Portfolio
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
