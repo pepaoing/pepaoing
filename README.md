@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm pepa full stack developer</h1>
 <h3 align="center">I'm a guy from Spain who likes programming</h3>
 
-- 🔭 I’m currently working on laype services
+- 🔭 I’m currently working capybara love
 
 - 🌱 I’m currently learning derivatives of c
 
